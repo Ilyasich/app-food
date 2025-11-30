@@ -1,6 +1,7 @@
 # NutriScan Android Project
 
-This project is structured using Clean Architecture and MVVM.
+This project is structured using Clean Architecture and MVVM. 
+The application is currently under development.
 
 ## Directory Structure
 
